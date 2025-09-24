@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/The-Legend-of-The-Bone-Sword-RPG/refs/heads/main/TheLegendOfTheBoneSwordRPG.lua"))()</p>
+<p align="left">loadstring(game:HttpGet("https://github.com/WareZ57/The-Legend-of-The-Bone-Sword-RPG-SCRIPT/blob/main/TheLegendOfTheBoneSwordRPG.lua"))()</p>
 
 ###
 
