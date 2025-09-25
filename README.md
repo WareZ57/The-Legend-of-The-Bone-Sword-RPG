@@ -11,32 +11,32 @@
 
 ###
 
-<p align="left">loadstring(game:HttpGet("https://github.com/WareZ57/The-Legend-of-The-Bone-Sword-RPG-SCRIPT/blob/main/TheLegendOfTheBoneSwordRPG.lua"))()</p>
+<p align="center">loadstring(game:HttpGet("https://github.com/WareZ57/The-Legend-of-The-Bone-Sword-RPG-SCRIPT/blob/main/TheLegendOfTheBoneSwordRPG.lua"))()</p>
 
 ###
 
-<h2 align="left">Features :</h2>
+<h2 align="center">Features :</h2>
 
 ###
 
-<p align="left">- TP specific NPCs<br>- TP ALL NPC<br>- TP Loop NPC<br>- Kill Script</p>
+<p align="center">- TP specific NPCs<br>- TP ALL NPC<br>- TP Loop NPC<br>- Kill Script</p>
 
-<h2 align="left">NPCs List :</h2>
+<h2 align="center">NPCs List :</h2>
 
 ###
 
-<p align="left">Training Dummy&nbsp;&nbsp;Luck Deity&nbsp;&nbsp;Mini Mushy&nbsp;&nbsp;Noxious Deity&nbsp;&nbsp;Plasma Cutter&nbsp;&nbsp;Medieval Deity&nbsp;&nbsp;Mushroom Deity&nbsp;&nbsp;Sea Deity&nbsp;&nbsp;Snow Brawler&nbsp;&nbsp;Snow Deity&nbsp;&nbsp;Plasma Deity&nbsp;&nbsp;Fire Deity&nbsp;&nbsp;Love Deity&nbsp;&nbsp;Bone Lord&nbsp;&nbsp;Titan Duplex&nbsp;&nbsp;Alien Monarch&nbsp;&nbsp;Alien Follower&nbsp;&nbsp;The Mazemaster&nbsp;&nbsp;Scrub&nbsp;&nbsp;The Bone Lord&nbsp;&nbsp;Death
+<p align="center">Training Dummy&nbsp;&nbsp;Luck Deity&nbsp;&nbsp;Mini Mushy&nbsp;&nbsp;Noxious Deity&nbsp;&nbsp;Plasma Cutter&nbsp;&nbsp;Medieval Deity&nbsp;&nbsp;Mushroom Deity&nbsp;&nbsp;Sea Deity&nbsp;&nbsp;Snow Brawler&nbsp;&nbsp;Snow Deity&nbsp;&nbsp;Plasma Deity&nbsp;&nbsp;Fire Deity&nbsp;&nbsp;Love Deity&nbsp;&nbsp;Bone Lord&nbsp;&nbsp;Titan Duplex&nbsp;&nbsp;Alien Monarch&nbsp;&nbsp;Alien Follower&nbsp;&nbsp;The Mazemaster&nbsp;&nbsp;Scrub&nbsp;&nbsp;The Bone Lord&nbsp;&nbsp;Death
 
 Open issue if want add more NPCs.
 </p>
 
 ###
 
-<h2 align="left">Made & Tested with</h2>
+<h2 align="center">Made & Tested with</h2>
 
 ###
 
-<p align="left">
+<p align="center">
   <a href="https://sirius.menu/" target="_blank">
     <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
   </a>
