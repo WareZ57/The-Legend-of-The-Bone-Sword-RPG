@@ -1,4 +1,9 @@
-<h1 align="center">The Legend of The Bone Sword RPG SCRIPT</h1>
+<h1 align="center">
+  <a href="https://www.roblox.com/games/428375933/The-Legend-of-The-Bone-Sword-RPG" 
+     style="text-decoration:none; color:inherit;">
+    The Legend of The Bone Sword RPG SCRIPT
+  </a>
+</h1>
 
 <div align="center">
   <img height="200" src="https://tr.rbxcdn.com/180DAY-6c6ba252bb096169c2ee33cb17aa2fe2/768/432/Image/Webp/noFilter"  />
